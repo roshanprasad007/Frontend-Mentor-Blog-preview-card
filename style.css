@@ -17,11 +17,7 @@ body {
   flex-direction: column;
 }
 .card {
-<<<<<<< Updated upstream
-  /*width: 500px;*/
-=======
-  width: 400px;
->>>>>>> Stashed changes
+max-width:400px;
   padding: 2rem 2rem 0rem 2rem;
   background-color: white;
   border-radius: 15px;
